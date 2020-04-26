@@ -1,0 +1,26 @@
+{
+  "name": "avicennajwtauth",
+  "version": "1.0.0",
+  "description": "avicennajwtauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihaly01/Repository1.git"
+  },
+  "keywords": [
+    "Asdasdf123-"
+  ],
+  "author": "nihaly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihaly01/Repository1/issues"
+  },
+  "homepage": "https://github.com/nihaly01/Repository1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
