@@ -1,7 +1,7 @@
-Simple Node.js JsonWebToken Example
+# Simple Node.js JsonWebToken Example
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Serve on localhost:5000
+Serve on localhost:5000
 npm start
