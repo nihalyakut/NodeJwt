@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nihaly01/Repository1#readme",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "jsonwebtoken": "^9.0.0"
   }
 }
